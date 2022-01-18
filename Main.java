@@ -1,9 +1,7 @@
 /* 
- John Yacoub, Chris Chen 
+ John Yacoub 
  June 19,2020 
- ICS 4U1
- Mr.Vittorio
- Final Project (Insta Life) 
+ Insta Life
 */
 
 import java.util.*;
